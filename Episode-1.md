@@ -16,12 +16,13 @@ React is a library not a full fligied framework
 
 ## CDN
 *Contact Delivery network*
+
 it is like page from where we take the data there all data is uploaded.
 by this we inject react into our poject
 
     
 	<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js > </script>
-	<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js > </script>
+	<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js >                                     </script>
 
 by this link we are importing react code into our project
 
